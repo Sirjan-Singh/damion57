@@ -1,6 +1,6 @@
 # Dear Visitors
 
-# Hi, I'm Damion57
+# Hi, I'm Damion
 
 A collage student learning and having fun , based in India New Delhi
 
