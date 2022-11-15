@@ -13,8 +13,8 @@ A collage student learning and having fun , based in India New Delhi
 ## Operating System & Tools
 
 [![Proxmox](https://img.shields.io/badge/OS-Proxmox-orange)](https://www.proxmox.com/en/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit)](https://ubuntu.com)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/software-download/windows10)
+[![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange)](https://ubuntu.com)
+[![Windows](https://img.shields.io/badge/OS-Windows%2010-blue)](https://www.microsoft.com/en-in/software-download/windows10)
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
