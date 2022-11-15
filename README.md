@@ -12,7 +12,7 @@ A collage student learning and having fun , based in India New Delhi
 
 ## Operating System & Tools
 
-[![Proxmox](https://img.shields.io/badge/Proxmox-Proxmox-orange)](https://www.proxmox.com/en/)
+[![Proxmox](https://img.shields.io/badge/OS-Proxmox-orange)](https://www.proxmox.com/en/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whit)](https://ubuntu.com)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/software-download/windows10)
 
