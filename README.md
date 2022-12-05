@@ -2,7 +2,7 @@
 
 # Hi, I'm Damion
 
-A collage student learning and having fun , based in India New Delhi
+A college student learning and having fun , based in India New Delhi
 
 ## About Me
 
