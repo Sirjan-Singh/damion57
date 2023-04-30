@@ -33,4 +33,4 @@ A college student learning and having fun , based in India New Delhi
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sirjan-Singh/damion57&show_icons=true&theme=dracula" alt="Sirjan-Singh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Sirjan-Singh&show_icons=true&theme=dracula" alt="Sirjan-Singh" /></p>
