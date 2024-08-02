@@ -30,7 +30,3 @@ A college student learning and having fun , based in India New Delhi
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-
-## Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=Sirjan-Singh&show_icons=true&theme=dracula" alt="Sirjan-Singh" /></p>
